@@ -1,0 +1,35 @@
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 300px;
+	height: 200px;
+}
+
+label {
+    color: Black;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body {
+	background-image: url("../images/ricepaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+
+
+
